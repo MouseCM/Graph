@@ -1,4 +1,4 @@
-# Mouse-Graph
+# Graph
 This app use to convert a column in excel file into a bar chart
 
 Set up
